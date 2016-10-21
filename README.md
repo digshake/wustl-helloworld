@@ -1,13 +1,13 @@
-# launchcode-helloworld
-Slides, examples, and exercises for LaunchCode's Hello, World! course.
+# wustl-helloworld
+Slides, examples, and exercises for WUSTL's Hello, World! workshop.
 
 # Course Outline
 
-## Day One:
+## Unit One: Introduction
 
 * [Slides](Slides/HelloWorld1.pdf)
 
-## Day Two: Pseudocode
+## Unit Two: Pseudocode
 
 * [Slides](Slides/pseudocode.pdf)
 
@@ -21,18 +21,8 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [More Loops](Examples/PseudoCode/forLoopExample.txt)
   * [Math function](Examples/PseudoCode/mathFunction.txt)
   * [Max function](Examples/PseudoCode/maxFunction.txt)
-
-* Exercises:
-
-  * [Telling a story with variables](Exercises/PseudoCode/story.txt)
-  * [Swapping values](Exercises/PseudoCode/swap.txt)
-  * [Loop exercises](Exercises/PseudoCode/loopexercises.txt)
-  * [Fibonacci sequence](Exercises/PseudoCode/fibonacci.txt)
-  * [FizzBuzz](Exercises/PseudoCode/fizzbuzz.txt)
-  * [Fibonacci as a function](Exercises/PseudoCode/fibonaccifunc.txt)
-  * [Multiplication function](Exercises/PseudoCode/mult.txt)
   
-## Day Three: Javascript
+## Unit Three: Javascript
 
 * All examples and exercises can be run using [jsbin](http://jsbin.com)
 
@@ -48,22 +38,15 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
   * [Loops](Examples/JavaScript/Loops.js)
   * [Math function](Examples/JavaScript/mathfunction.js)
   * [Max function](Examples/JavaScript/maxFunction.js)
-
-* Exercises:
-
-  * [Telling a story with variables](Exercises/javascript/story.js)
-  * [Swapping values](Exercises/javascript/swap.js)
-  * [Loop exercises](Exercises/javascript/loopexercises.js)
-  * [Fibonacci sequence](Exercises/javascript/fibonacci.js)
-  * [FizzBuzz](Exercises/javascript/fizzbuzz.js)
-  * [Fibonacci as a function](Exercises/javascript/fibonaccifunc.js)
-  * [Multiplication function](Exercises/javascript/mult.js)
   
-## Day Four: Pong
+## Unit Four: HTML + CSS
+
+* [Slides](Slides/htmlcss.pdf)
+
+## Unit Five: Project
 
 * [Slides](Slides/pong.pdf)
 
 * Examples:
 
-	* [Starter code for pong](https://jsfiddle.net/dsshook/uh70vax8/)
-	* [Completed pong](http://jsfiddle.net/dsshook/0Lj82xqm/)
+	* [Starter code](https://jsfiddle.net/dsshook/uh70vax8/)
