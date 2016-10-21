@@ -5,7 +5,7 @@ Slides, examples, and exercises for WUSTL's Hello, World! workshop.
 
 ## Unit One: Introduction
 
-* [Slides](Slides/HelloWorld1.pdf)
+* [Slides](Slides/Intro.pdf)
 
 ## Unit Two: Pseudocode
 
@@ -19,12 +19,12 @@ Slides, examples, and exercises for WUSTL's Hello, World! workshop.
   * [Max finder with nested ifs](Examples/PseudoCode/MaxNested.txt)
   * [Loops](Examples/PseudoCode/Loops.txt)
   * [More Loops](Examples/PseudoCode/forLoopExample.txt)
-  * [Math function](Examples/PseudoCode/mathFunction.txt)
+  * [Math function](Examples/PseudoCode/mathfunction.txt)
   * [Max function](Examples/PseudoCode/maxFunction.txt)
   
 ## Unit Three: Javascript
 
-* All examples and exercises can be run using [jsbin](http://jsbin.com)
+* All examples and exercises can be run using [repl.it](https://repl.it/languages/javascript)
 
 * [Slides](Slides/javascript.pdf)
 
